@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <script src="bootstrap.min.js"
     <header>
       <div class="container">
 
